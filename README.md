@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning at NMIT, studying the Level 7 Bachelor in Information Technology
 - ⚡ I'm interested in all sides of development from low level engineering to web development
 - 
-![alt text](https://github.com/Ollie-Moss/blob/main/Header.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Ollie-Moss/Ollie-Moss/main/Header.png)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ollie-Moss&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
