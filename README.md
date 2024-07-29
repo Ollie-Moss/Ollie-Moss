@@ -10,7 +10,7 @@ const AboutMe = {
     Qualification: {
                 Name: "Bachelor of Information Technology",
                 Level: 7,
-                Status: "In Progress"
+                Status: "2nd Year"
               },
     Languages: ["Javascript", "HTML", "CSS", "Python", "C#", "C"]
 };
