@@ -27,6 +27,7 @@ const AboutMe = {
 -->
 
 <p align="left">
-  &nbsp;<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=Ollie-Moss&show_icons=true&theme=dracula&locale=en" alt="ollie-moss" />
-  <img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ollie-Moss&theme=dracula" alt="GitHub Streak" />
+  &nbsp;
+    <img width="475" align="center" src="https://github-readme-stats.vercel.app/api?username=Ollie-Moss&show_icons=true&theme=dracula&locale=en" alt="ollie-moss" />
+    <img width="500" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ollie-Moss&theme=dracula" alt="GitHub Streak" />
 </p>
