@@ -3,16 +3,18 @@
 
 ## About Me
 ```ts
-const AboutMe = { 
-    Name: "Ollie Moss",
-    Type: "Student",
-    Insitution: "NMIT",
-    Qualification: {
-                Name: "Bachelor of Information Technology",
-                Level: 7,
-                Status: "2nd Year"
+const aboutMe = { 
+    name: "Ollie Moss",
+    type: "Student",
+    insitution: "NMIT (Nelson Marlborough Institute of Technology)",
+    editor: "neovim",
+    qualification: {
+                name: "Bachelor of Information Technology",
+                level: 7,
+                status: "2nd Year"
               },
-    Languages: ["Javascript", "HTML", "CSS", "Python", "C#", "C"]
+    languages: ["Typescript", "Javascript", "HTML", "CSS", "Python", "C#", "C", "SQL"],
+    technologies: ["React", "NextJS", "Firebase"],
 };
 ```
 
