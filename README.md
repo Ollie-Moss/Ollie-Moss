@@ -13,8 +13,8 @@ const aboutMe = {
                 level: 7,
                 status: "3rd Year"
               },
-    languages: ["Typescript", "Javascript", "HTML", "CSS", "Python", "C#", "C", "SQL"],
-    technologies: ["React", "NextJS", "Firebase"],
+    languages: ["Typescript", "Javascript", "HTML", "CSS", "Python", "C#", "C++", "SQL"],
+    technologies: ["React", "NextJS", "Firebase", "OpenGL"],
 };
 ```
 
