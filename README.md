@@ -11,7 +11,7 @@ const aboutMe = {
     qualification: {
                 name: "Bachelor of Information Technology",
                 level: 7,
-                status: "3rd Year"
+                status: "Completed 🎉🎉"
               },
     languages: ["Typescript", "Javascript", "Python", "C#", "C++", "SQL"],
     technologies: ["React", "Git", "OpenGL"],
