@@ -32,11 +32,8 @@ const aboutMe = {
 </p>
 
 ### Github Stats:
-<!--- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ollie-moss&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ollie-moss" /></p> 
--->
 
 <p align="left">
   &nbsp;
-    <img width=46% align="center" src="https://github-readme-stats.vercel.app/api?username=Ollie-Moss&show_icons=true&theme=dracula&locale=en" alt="ollie-moss" />
     <img width=49% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ollie-Moss&theme=dracula" alt="GitHub Streak" />
 </p>
