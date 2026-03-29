@@ -5,7 +5,7 @@
 ```ts
 const aboutMe = { 
     name: "Ollie Moss",
-    type: "Graduate Developer",
+    occupation: "Graduate Developer",
     company: "Sentify",
     editor: "neovim",
     qualification: {
