@@ -5,13 +5,14 @@
 ```ts
 const aboutMe = { 
     name: "Ollie Moss",
-    type: "Student",
-    insitution: "NMIT (Nelson Marlborough Institute of Technology)",
+    type: "Graduate Developer",
+    company: "Sentify",
     editor: "neovim",
     qualification: {
                 name: "Bachelor of Information Technology",
                 level: 7,
-                status: "Completed 🎉🎉"
+                status: "Completed"
+                insitution: "NMIT (Nelson Marlborough Institute of Technology)",
               },
     languages: ["Typescript", "Javascript", "Python", "C#", "C++", "SQL"],
     technologies: ["React", "Git", "OpenGL"],
